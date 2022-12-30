@@ -8,8 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+You are going to be able to see this food app by clicking the link below
+
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [link](https://63aeeb840ca76809d495b31d--leafy-biscuit-8b51d2.netlify.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
